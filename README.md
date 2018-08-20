@@ -22,9 +22,9 @@ struct node *ref_ChildNodeId;
 
 void create_firstNode()
 {
-    first_node->owner_name= "shubham";
+    first_node->owner_name= "nikhil";
     first_node->address="ymca university, faridabad";
-    first_node->mobile= 74684656;
+    first_node->mobile= 9910788509;
     first_node->value= 2.23;
     first_node->Node_Number= 1;
     first_node->Node_id= rand() %100;
